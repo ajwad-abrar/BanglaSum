@@ -1,0 +1,3 @@
+Application Page Generation Time: 2015-01-01T11:03:27-05:00
+Page: recentactivity
+Message Body: We live in [LOCATION] and my husband has been detected an insulinoma.
